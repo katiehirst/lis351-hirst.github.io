@@ -1,0 +1,45 @@
+
+* {
+font-family: veranda;
+color: #black;
+text-align: center;
+background-color: lightpink;}
+
+body {
+width: 960px;
+margin: 0 auto;
+
+style="background-color:lightpink;" }
+#content {
+overflow: auto;
+height: 100%;}
+.column1, .column2, .column3 {
+float: left;
+margin: 10px;
+bo}
+
+h1 {
+	color: black;
+	text-align: center;
+	border: 4px;
+	background color: lightpink;
+	border border-radius: 12px;
+	margin-left: 140px;
+	margin-right: 140px;
+	font-family: cursive;
+	font font-weight: 400;}
+
+h2 {
+	text-align: center;
+  text-decoration: overline;}
+
+p {
+	background-color: aliceblue;
+	line-height: 1.4em;
+	text-align: inherit;}
+
+<nav>
+  <a href="Wisconsin Sunsets.html "> Wisconsin Sunsets </a> |
+  <a href="Around the Country.html "> Around the Country Sunsets </a> |
+  <a href="Around the World.html "> Out of the Country Sunsets </a> 
+</nav>
